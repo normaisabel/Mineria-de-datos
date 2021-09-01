@@ -11,3 +11,5 @@
 [Ejercicio Limpieza de datos](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
 
 [Avance 1 PIA](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
+
+[Avance 1 PIA Opción2](https://github.com/normaisabel/Mineria-de-datos/blob/main/Avance1_PIA(Op_2)_Equipo4.ipynb)
