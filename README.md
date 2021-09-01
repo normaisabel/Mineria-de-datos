@@ -9,3 +9,5 @@
 [Ejercicios Python](https://github.com/normaisabel/Mineria-de-datos/blob/main/Ej_Python_1941443.ipynb)
 
 [Ejercicio Limpieza de datos](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
+
+[Avance 1 PIA](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
