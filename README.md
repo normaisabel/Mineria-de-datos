@@ -12,4 +12,4 @@
 
 [Avance 1 PIA](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
 
-[Avance 1 PIA Opción2](https://github.com/normaisabel/Mineria-de-datos/blob/main/Avance1_PIA(Op_2)_Equipo4.ipynb)
+[Avance 1 PIA Opción2](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance1_PIA(Op_2)_Equipo4.ipynb)
