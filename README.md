@@ -21,3 +21,5 @@
 [Presentación: Series de tiempo (preguntas y respuestas)](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Presentaci%C3%B3n_SeriesdeTiempo_Equipo4%20(respuestas%20a%20preguntas).pdf)
 
 [Presentación: Series de tiempo (código)](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Programa_Presentaci%C3%B3n.ipynb)
+
+[Práctica Visualización: Base de datos secundaria](https://github.com/normaisabel/Mineria-de-datos/blob/main/Visualizacion_Base2.ipynb)
