@@ -27,3 +27,5 @@
 [Práctica Visualización: Base de datos secundaria](https://github.com/normaisabel/Mineria-de-datos/blob/main/Visualizacion_Base2.ipynb)
 
 [AVANCE 2 PIA](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Practica_II_Base1.ipynb)
+
+[AVANCE 2 PIA Corregido](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance2_PIA_Equipo4_Tecnica_miner%C3%ADa.ipynb)
