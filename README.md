@@ -28,4 +28,6 @@
 
 [AVANCE 2 PIA](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Practica_II_Base1.ipynb)
 
-[AVANCE 2 PIA Corregido](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance2_PIA_Equipo4_Tecnica_miner%C3%ADa.ipynb)
+[AVANCE 2 PIA con técnicas](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance2_PIA_Equipo4_Tecnica_miner%C3%ADa.ipynb)
+
+[PIA](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/PIA_Equipo4.ipynb)
