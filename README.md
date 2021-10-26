@@ -32,4 +32,6 @@
 
 [PIA](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/PIA_Equipo4.ipynb)
 
+[Póster final](https://github.com/normaisabel/Mineria-de-datos/blob/main/P%C3%B3ster_Equipo4.pdf)
+
 [Avance Póster](https://github.com/normaisabel/Mineria-de-datos/blob/main/P%C3%B3ster.png)
